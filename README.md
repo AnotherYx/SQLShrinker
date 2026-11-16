@@ -1,2 +1,3 @@
 # SQLShrinker
-A tool for sql testcase reduction
+A tool for SQL test case reduction.
+The code will be released upon acceptance.
